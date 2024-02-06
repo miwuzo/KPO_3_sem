@@ -1,0 +1,45 @@
+﻿Сборка начата 14.12.2023 13:15:35.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\SE_Lab20.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab20.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_Lab20.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt PolishNotation.cpp
+         PolishNotation.cpp
+     1>C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(68,21): warning C4129: @: неизвестная escape-последовательность
+     1>C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : temp
+     1>C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(24): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+     1>C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(14): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yana\Desktop\SE_Lab20\Debug\SE_Lab20.exe" /INCREMENTAL /ILK:"Debug\SE_Lab20.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yana\Desktop\SE_Lab20\Debug\SE_Lab20.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yana\Desktop\SE_Lab20\Debug\SE_Lab20.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\GRB.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexemaAnalysis.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\PolishNotation.obj
+         Debug\SE_Lab20.obj
+         SE_Lab20.vcxproj -> C:\Users\yana\Desktop\SE_Lab20\Debug\SE_Lab20.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab20.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab20.tlog\SE_Lab20.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\SE_Lab20.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\SE_Lab20.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(68,21): warning C4129: @: неизвестная escape-последовательность
+         C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : temp
+         C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(24): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+         C:\Users\yana\Desktop\SE_Lab20\SE_Lab20\PolishNotation.cpp(14): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:02.25
