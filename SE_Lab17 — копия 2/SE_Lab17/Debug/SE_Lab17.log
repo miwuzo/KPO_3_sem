@@ -1,0 +1,42 @@
+﻿Сборка начата 11.11.2023 11:56:03.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\SE_Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_Lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt LA.cpp
+         LA.cpp
+     1>C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(226,26): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(262,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(420,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(427,23): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yana\Desktop\SE_Lab17 — копия\Debug\SE_Lab17.exe" /INCREMENTAL /ILK:"Debug\SE_Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yana\Desktop\SE_Lab17 — копия\Debug\SE_Lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yana\Desktop\SE_Lab17 — копия\Debug\SE_Lab17.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LA.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SE_Lab17.obj
+         SE_Lab17.vcxproj -> C:\Users\yana\Desktop\SE_Lab17 — копия\Debug\SE_Lab17.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab17.tlog\SE_Lab17.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\SE_Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(226,26): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(262,24): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(420,23): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\yana\Desktop\SE_Lab17 — копия\SE_Lab17\LA.cpp(427,23): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.43

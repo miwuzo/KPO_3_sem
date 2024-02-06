@@ -1,0 +1,18 @@
+﻿Сборка начата 14.11.2023 00:44:06.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\yana\Desktop\asem2\asem2\asem2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\yana\Desktop\asem2\x64\Debug\".
+         Создание каталога "x64\Debug\asem2.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\asem2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\asem2.tlog\unsuccessfulbuild".
+       FinalizeBuildStatus:
+         Файл "x64\Debug\asem2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\asem2.tlog\asem2.lastbuildstate".
+     1>Сборка проекта "C:\Users\yana\Desktop\asem2\asem2\asem2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.18
